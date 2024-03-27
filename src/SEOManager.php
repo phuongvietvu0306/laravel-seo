@@ -325,7 +325,7 @@ class SEOManager
             return $this;
         }
 
-        return $this->get($key);
+        return $this;
     }
 
     /**
